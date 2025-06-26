@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<launch4jConfig>
+  <dontWrapJar>false</dontWrapJar>
+  <headerType>gui</headerType>
+  <jar>C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.jar</jar>
+  <outfile>C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe</outfile>
+  <errTitle></errTitle>
+  <cmdLine></cmdLine>
+  <chdir>.</chdir>
+  <priority>normal</priority>
+  <downloadUrl></downloadUrl>
+  <supportUrl></supportUrl>
+  <stayAlive>false</stayAlive>
+  <restartOnCrash>false</restartOnCrash>
+  <manifest></manifest>
+  <icon>C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\src\main\resources\org\example\demo\favicon.ico</icon>
+  <jre>
+    <path>C:\Program Files\Java\jdk-17\bin</path>
+    <requiresJdk>false</requiresJdk>
+    <requires64Bit>false</requires64Bit>
+    <minVersion></minVersion>
+    <maxVersion></maxVersion>
+    <opt>--module-path=./javafx-sdk-17.0.15/lib</opt>
+    <opt>--add-modules=javafx.controls,javafx.fxml</opt>
+  </jre>
+</launch4jConfig>

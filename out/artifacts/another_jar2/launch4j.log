@@ -1,0 +1,635 @@
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	--module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-Dprism.order=sw --module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	199/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000
+Java max ver:	
+Substitute:	JAVA_HOME = C:\Program Files\Java\jdk-23
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-23;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+Check launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe (OK)
+Version string: 1.023.000_001 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-23\bin\javaw.exe
+Launcher args:	-Dprism.order=sw --module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	199/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+Substitute:	JAVA_HOME17 = C:\Program Files\Java\jdk-17
+Substitute:	PATH = C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin
+JRE paths:	C:\Program Files\Java\jdk-17;C:\Program Files\Common Files\Oracle\Java\javapath;C:\Program Files (x86)\Common Files\Oracle\Java\java8path;C:\Program Files (x86)\Common Files\Oracle\Java\javapath;C:\windows\system32;C:\windows;C:\windows\System32\Wbem;C:\windows\System32\WindowsPowerShell\v1.0\;C:\windows\System32\OpenSSH\;C:\Program Files (x86)\NVIDIA Corporation\PhysX\Common;C:\Program Files\NVIDIA Corporation\NVIDIA NvDLISR;C:\Users\Administrator\AppData\Local\Microsoft\WindowsApps;C:\Program Files\HP\OMEN-Broadcast\Common;C:\Program Files\Git\cmd;C:\Program Files\PuTTY\;C:\Program Files\nodejs\;C:\Program Files\CMake\bin;C:\Program Files\Go\bin;C:\Program Files\Docker\Docker\resources\bin;C:\Program Files\NVIDIA Corporation\Nsight Compute 2022.3.0\;C:\WINDOWS\system32;C:\WINDOWS;C:\WINDOWS\System32\Wbem;C:\WINDOWS\System32\WindowsPowerShell\v1.0\;C:\WINDOWS\System32\OpenSSH\;C:\Users\gerar\GerardoMoreShit\bin;C:\Program Files\Neovim\bin;C:\ProgramData\chocolatey\bin;C:\Users\gerar\AppData\Local\Programs\oh-my-posh\bin\;C:\Users\gerar\scoop\shims;C:\Ruby33-x64\bin;C:\Users\gerar\AppData\Local\Programs\Python\Python312\Scripts\;C:\Users\gerar\AppData\Local\Programs\Python\Python312\;C:\Users\gerar\AppData\Local\Programs\Python\Launcher\;C:\Users\gerar\AppData\Local\Microsoft\WindowsApps;C:\Program Files\JetBrains\PyCharm Community Edition 2024.1.1\bin;;C:\Users\gerar\OneDrive\Documents\ffmpeg-2024-07-24-git-896c22ef00-full_build\bin;C:\Users\gerar\AppData\Local\Programs\Microsoft VS Code\bin;C:\ProgramData\Microsoft\Windows\Start Menu\Programs\Git;C:\Users\gerar\AppData\Roaming\npm;C:\Users\gerar\Downloads\winlibs-x86_64-posix-seh-gcc-14.2.0-llvm-19.1.1-mingw-w64ucrt-12.0.0-r2\mingw64\bin;C:\Program Files\Java\jdk-23;C:\Program Files\Vim\vim91;C:\Program Files\gcc\mingw64\bin;C:\Users\gerar\go\bin;C:\Users\gerar\gvim_9.1.1053_x86\vim\vim91;C:\Program Files\Microsoft MPI\Bin;C:\Users\gerar\gradle\gradle-8.12.1-all\gradle-8.12.1\bin;C:\Users\gerar\Downloads\apache-maven-3.9.9-bin (1)\apache-maven-3.9.9\bin;C:\Users\gerar\GerardoMoreShit\Aliases;C:\Program Files\OpenSSL-Win64\bin;C:\Apache24\bin;C:\Users\gerar\AppData\Local\Programs\MiKTeX\miktex\bin\x64\;C:\Program Files\Inkscape\bin;C:\Users\gerar\GerardoMoreShit\sqlite-tools-win-x64-3490100;C:\Users\gerar\GerardoMoreShit\mongosh-2.4.2-win32-x64\mongosh-2.4.2-win32-x64\bin;C:\Users\gerar\GerardoMoreShit\mongodb-windows-x86_64-8.0.5\mongodb-win32-x86_64-windows-8.0.5\bin;C:\Users\gerar\GerardoMoreShit\BatShit\python38.bat;C:\Users\gerar\GerardoMoreShit\neovim;C:\Users\gerar\GerardoMoreShit\BatShit;C:\Users\gerar\GerardoMoreShit\Tools\apache-maven-3.9.9-bin\apache-maven-3.9.9\bin;C:\Users\gerar\AppData\Local\Programs\cursor\resources\app\bin;C:\Users\gerar\GerardoMoreShit\kotlinc\bin;C:\Program Files\JetBrains\CLion 2025.1.2\bin;;C:\Users\gerar\GerardoMoreShit\OpenGL\glfw-3.4\build\src;C:\Users\gerar\GerardoMoreShit\OpenGL\glew-2.2.0\bin\Release\x64;C:\Users\gerar\GerardoMoreShit;C:\Program Files (x86)\Oni;;C:\Program Files\Java\jdk-23\bin 
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin\java.exe
+Check launcher:	C:\Program Files\Java\jdk-17\bin\java.exe\bin\javaw.exe (not found)
+Error msg:	This application requires a Java Runtime Environment.
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15
+Check launcher:	C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_431
+Version string: 1.008.000_431 / 64-Bit (Ignore)
+Ignore:		1.008.000_431
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.12
+Version string: 1.017.000_012 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Match:		1.017.000_012
+Runtime used:	1.017.000_012 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: Yes
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	182/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe\bin\javaw.exe (not found)
+64-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8
+Version string: 1.008.000 / 64-Bit (Ignore)
+Ignore:		1.008.000
+Check:		SOFTWARE\JavaSoft\Java Runtime Environment\1.8.0_431
+Version string: 1.008.000_431 / 64-Bit (Ignore)
+Ignore:		1.008.000_431
+32-bit search:	SOFTWARE\JavaSoft\Java Runtime Environment...
+64-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+32-bit search:	SOFTWARE\JavaSoft\Java Development Kit...
+64-bit search:	SOFTWARE\JavaSoft\JRE...
+32-bit search:	SOFTWARE\JavaSoft\JRE...
+64-bit search:	SOFTWARE\JavaSoft\JDK...
+Check:		SOFTWARE\JavaSoft\JDK\17.0.12
+Version string: 1.017.000_012 / 64-Bit (OK)
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Match:		1.017.000_012
+Runtime used:	1.017.000_012 (64-bit)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-Dprism.order=sw -Dprism.verbose=true -Djava.library.path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	470/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	-Dprism.order=sw -Dprism.verbose=true -Djava.library.path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	470/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	210/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=C:\Users\gerar\GerardoMoreShit\Tools\javafx\openjfx-17.0.15_windows-x64_bin-sdk\javafx-sdk-17.0.15\lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	309/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	231/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	231/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demo.exe"
+Args length:	231/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe"
+Args length:	234/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe"
+Args length:	234/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	1.017.000_000
+Java max ver:	1.017.999_999
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml,javafx.base,javafx.graphics -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\demonew.exe"
+Args length:	234/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/bin --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/bin --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/bin --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0
+
+
+Version:	3.50
+CmdLine:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe --l4j-debug
+JNI:		No
+WOW64:		Yes
+Working dir:	C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\.
+Requires JDK:	No
+Requires 64-Bit: No
+Java min ver:	
+Java max ver:	
+JRE paths:	C:\Program Files\Java\jdk-17\bin
+Check launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe (OK)
+Version string: 1.017.000_012 / 64-Bit (OK)
+Launcher:	C:\Program Files\Java\jdk-17\bin\javaw.exe
+Launcher args:	--module-path=./javafx-sdk-17.0.15/lib --add-modules=javafx.controls,javafx.fxml -jar "C:\Users\gerar\GerardoMoreShit\proyectos_programacion\java_proyects\spring\demo\out\artifacts\another_jar2\searchYoutube.exe"
+Args length:	212/32768 chars
+Exit code:	0

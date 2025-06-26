@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.geometry.Insets?>
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.TextField?>
+<?import javafx.scene.layout.HBox?>
+
+<HBox xmlns:fx="http://javafx.com/fxml"
+      fx:controller="org.example.demo.HelloController"
+      alignment="CENTER"
+      spacing="5"
+      stylesheets="@style.css"
+      fx:id="main_container">
+    <TextField onAction="#search" fx:id="textfield" promptText="Search..." maxWidth="180"/>
+    <Button fx:id="search_button" onAction="#search" />
+</HBox>
