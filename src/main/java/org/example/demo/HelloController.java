@@ -24,10 +24,13 @@ import javafx.stage.WindowEvent;
 import javafx.util.Duration;
 
 import java.awt.*;
+import java.io.File;
 import java.io.IOException;
 import java.io.InputStream;
 import java.net.URI;
 import java.net.URISyntaxException;
+import java.nio.file.Files;
+import java.nio.file.StandardCopyOption;
 import java.util.ArrayList;
 
 import javafx.scene.robot.Robot;
@@ -44,7 +47,7 @@ public class HelloController implements Observer{
     @FXML private Button search_button;
 
     private String link_prefix = "https://www.youtube.com/results?search_query=";
-    private String openGoogleURL  = "C:\\Users\\gerar\\GerardoMoreShit\\shortcuts\\openGoogleURL.bat";
+    private String openGoogleURL  = "openGoogleURL.bat";
     private Stage stage;
 
     public void initStuff()
@@ -145,20 +148,34 @@ search_button.setOnMouseExited(e -> {
     }
 
 
-    private void execute_batFile(String url)
-    {
-        ArrayList<String> script = new ArrayList<>();
-        script.add(openGoogleURL);
-        script.add(url);
+    private void execute_batFile(String url) {
+        try {
+            // 1. Extract the .bat file from resources to a temp file
+            InputStream inputStream = getClass().getResourceAsStream(openGoogleURL);
+            if (inputStream == null) {
+                System.err.println("Could not find bat file in resources!");
+                return;
+            }
 
-        System.out.println("Script "+script.toString());
+            File tempBat = File.createTempFile("openGoogleURL", ".bat");
+            tempBat.deleteOnExit();
 
-        String[] command = script.toArray(new String[0]);
-        ProcessBuilder pb = new ProcessBuilder(command);
-        try{
+            Files.copy(inputStream, tempBat.toPath(), StandardCopyOption.REPLACE_EXISTING);
+
+            // 2. Build and run the process
+            ArrayList<String> script = new ArrayList<>();
+            script.add(tempBat.getAbsolutePath());  // use extracted file path
+            System.out.println(tempBat.getAbsolutePath());
+            script.add(url);
+
+            System.out.println("Script: " + script);
+
+            ProcessBuilder pb = new ProcessBuilder(script);
             pb.start();
+
         } catch (IOException e) {
-            System.out.printf("Soehting went rong");
+            System.out.println("Something went wrong: " + e.getMessage());
+            e.printStackTrace();
         }
     }
 
