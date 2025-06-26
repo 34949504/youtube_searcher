@@ -1,5 +1,5 @@
 ctrl alt opens the dialog to search.
-To minimize it same commmand or alt
+To minimize it use the same command or esc
 To really close it you end  a process of java in task manager
 
 
